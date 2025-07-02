@@ -1,5 +1,8 @@
-## Hi there 👋
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, this is Mayuresh's GitHub.</h2>
 
+
+[![Mayuresh's (mayuresh2543) github stats](https://github-readme-stats.vercel.app/api?username=mayuresh2543&show_icons=true&theme=transparent)](https://github.com/mayuresh2543)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayuresh2543&show_icons=true&theme=transparent)](https://github.com/mayuresh2543)
 <!--
 **mayuresh2543/mayuresh2543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
